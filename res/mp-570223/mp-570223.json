@@ -1,0 +1,168 @@
+{
+  "material_id": "mp-570223",
+  "formula": "CsGeBr3",
+  "elements": [
+    "Br",
+    "Cs",
+    "Ge"
+  ],
+  "formation_energy": -1.429876501931033,
+  "band_gap": 0.760699999999999,
+  "energy_above_hull": 0.016845471999999,
+  "density": 4.364165908542947,
+  "volume": 169.417801492696,
+  "space_group": "Pm-3m",
+  "space_group_number": 221,
+  "structure": {
+    "@module": "pymatgen.core.structure",
+    "@class": "Structure",
+    "charge": 0,
+    "lattice": {
+      "matrix": [
+        [
+          5.53332714,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          5.53332714,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          5.53332714
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "a": 5.53332714,
+      "b": 5.53332714,
+      "c": 5.53332714,
+      "alpha": 90.0,
+      "beta": 90.0,
+      "gamma": 90.0,
+      "volume": 169.417801492696
+    },
+    "sites": [
+      {
+        "species": [
+          {
+            "element": "Cs",
+            "occu": 1
+          }
+        ],
+        "abc": [
+          -0.0,
+          0.0,
+          -0.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "properties": {
+          "magmom": 0.0
+        },
+        "label": "Cs"
+      },
+      {
+        "species": [
+          {
+            "element": "Ge",
+            "occu": 1
+          }
+        ],
+        "abc": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "xyz": [
+          2.76666357,
+          2.76666357,
+          2.76666357
+        ],
+        "properties": {
+          "magmom": 0.0
+        },
+        "label": "Ge"
+      },
+      {
+        "species": [
+          {
+            "element": "Br",
+            "occu": 1
+          }
+        ],
+        "abc": [
+          0.5,
+          0.5,
+          -0.0
+        ],
+        "xyz": [
+          2.76666357,
+          2.76666357,
+          0.0
+        ],
+        "properties": {
+          "magmom": -0.0
+        },
+        "label": "Br"
+      },
+      {
+        "species": [
+          {
+            "element": "Br",
+            "occu": 1
+          }
+        ],
+        "abc": [
+          0.5,
+          -0.0,
+          0.5
+        ],
+        "xyz": [
+          2.76666357,
+          0.0,
+          2.76666357
+        ],
+        "properties": {
+          "magmom": -0.0
+        },
+        "label": "Br"
+      },
+      {
+        "species": [
+          {
+            "element": "Br",
+            "occu": 1
+          }
+        ],
+        "abc": [
+          -0.0,
+          0.5,
+          0.5
+        ],
+        "xyz": [
+          0.0,
+          2.76666357,
+          2.76666357
+        ],
+        "properties": {
+          "magmom": -0.0
+        },
+        "label": "Br"
+      }
+    ]
+  },
+  "nsites": 5,
+  "is_stable": false,
+  "is_metal": false,
+  "fermi_energy": 1.33568797
+}

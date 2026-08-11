@@ -1,0 +1,40 @@
+{
+  "metrics": {
+    "formation_energy_mae_normalized": 0.20369547605514526,
+    "formation_energy_rmse_normalized": 0.27066007256507874,
+    "fermi_energy_mae_normalized": 0.2360057830810547,
+    "fermi_energy_rmse_normalized": 0.30862927436828613,
+    "band_gap_mae_normalized": 0.22285544872283936,
+    "band_gap_rmse_normalized": 0.35061031579971313,
+    "test_total_loss": 0.4050731807947159,
+    "test_formation_energy_loss": 0.30190353095531464,
+    "test_fermi_energy_loss": 0.36984510719776154,
+    "test_band_gap_loss": 0.5434709042310715,
+    "xrd_attention_mean": 0.5,
+    "xrd_attention_std": 0.0,
+    "xafs_attention_mean": 0.5,
+    "xafs_attention_std": 0.0,
+    "xrd_attention_sum": 0.5,
+    "xafs_attention_sum": 0.5,
+    "attention_total_sum": 1.0,
+    "cross_attn_xrd2xafs_mean": 1.0,
+    "cross_attn_xrd2xafs_std": 0.0,
+    "cross_attn_xafs2xrd_mean": 1.0,
+    "cross_attn_xafs2xrd_std": 0.0,
+    "formation_energy_mae_original": 0.46833160519599915,
+    "formation_energy_rmse_original": 0.6222949624061584,
+    "formation_energy_r2": 0.7132783442733901,
+    "fermi_energy_mae_original": 1.2338333129882812,
+    "fermi_energy_rmse_original": 1.6135073900222778,
+    "fermi_energy_r2": 0.5815623062038466,
+    "band_gap_mae_original": 0.7452157735824585,
+    "band_gap_rmse_original": 1.172420620918274,
+    "band_gap_r2": 0.5162914064301495
+  },
+  "attention_stats": {
+    "xrd_mean": 0.5,
+    "xrd_std": 0.0,
+    "xafs_mean": 0.5,
+    "xafs_std": 0.0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "metrics": {
+    "formation_energy_mae_normalized": 0.1537417322397232,
+    "formation_energy_rmse_normalized": 0.20423761010169983,
+    "fermi_energy_mae_normalized": 0.1686510145664215,
+    "fermi_energy_rmse_normalized": 0.2398570477962494,
+    "band_gap_mae_normalized": 0.15827077627182007,
+    "band_gap_rmse_normalized": 0.2787856161594391,
+    "test_total_loss": 0.23595443864663443,
+    "test_formation_energy_loss": 0.16685201227664948,
+    "test_fermi_energy_loss": 0.23012560606002808,
+    "test_band_gap_loss": 0.3108856976032257,
+    "xrd_attention_mean": 0.5,
+    "xrd_attention_std": 0.0,
+    "xafs_attention_mean": 0.5,
+    "xafs_attention_std": 0.0,
+    "xrd_attention_sum": 0.5,
+    "xafs_attention_sum": 0.5,
+    "attention_total_sum": 1.0,
+    "cross_attn_xrd2xafs_mean": 1.0,
+    "cross_attn_xrd2xafs_std": 0.0,
+    "cross_attn_xafs2xrd_mean": 1.0,
+    "cross_attn_xafs2xrd_std": 0.0,
+    "formation_energy_mae_original": 0.3580165505409241,
+    "formation_energy_rmse_original": 0.47560569643974304,
+    "formation_energy_r2": 0.816174643565895,
+    "fermi_energy_mae_original": 0.8820095062255859,
+    "fermi_energy_rmse_original": 1.2544020414352417,
+    "fermi_energy_r2": 0.7377168075963243,
+    "band_gap_mae_original": 0.5316070318222046,
+    "band_gap_rmse_original": 0.9363977909088135,
+    "band_gap_r2": 0.6790462284747761
+  },
+  "attention_stats": {
+    "xrd_mean": 0.5,
+    "xrd_std": 0.0,
+    "xafs_mean": 0.5,
+    "xafs_std": 0.0
+  }
+}

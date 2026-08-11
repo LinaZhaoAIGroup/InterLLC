@@ -1,0 +1,168 @@
+{
+  "material_id": "mp-504715",
+  "formula": "BaTiO3",
+  "elements": [
+    "Ba",
+    "O",
+    "Ti"
+  ],
+  "formation_energy": -0.414785889666666,
+  "band_gap": 0,
+  "energy_above_hull": 3.077492087999968,
+  "density": 3.8533977810600533,
+  "volume": 100.48917348467371,
+  "space_group": "Pm-3m",
+  "space_group_number": 221,
+  "structure": {
+    "@module": "pymatgen.core.structure",
+    "@class": "Structure",
+    "charge": 0,
+    "lattice": {
+      "matrix": [
+        [
+          4.649145,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.649145,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.649145
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "a": 4.649145,
+      "b": 4.649145,
+      "c": 4.649145,
+      "alpha": 90.0,
+      "beta": 90.0,
+      "gamma": 90.0,
+      "volume": 100.48917348467371
+    },
+    "sites": [
+      {
+        "species": [
+          {
+            "element": "Ba",
+            "occu": 1
+          }
+        ],
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "properties": {
+          "magmom": -0.049
+        },
+        "label": "Ba"
+      },
+      {
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "abc": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "xyz": [
+          2.3245725,
+          2.3245725,
+          2.3245725
+        ],
+        "properties": {
+          "magmom": 0.033
+        },
+        "label": "Ti"
+      },
+      {
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "abc": [
+          0.5,
+          0.0,
+          0.0
+        ],
+        "xyz": [
+          2.3245725,
+          0.0,
+          0.0
+        ],
+        "properties": {
+          "magmom": -0.097
+        },
+        "label": "O"
+      },
+      {
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "abc": [
+          0.0,
+          0.0,
+          0.5
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          2.3245725
+        ],
+        "properties": {
+          "magmom": -0.097
+        },
+        "label": "O"
+      },
+      {
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "abc": [
+          0.0,
+          0.5,
+          0.0
+        ],
+        "xyz": [
+          0.0,
+          2.3245725,
+          0.0
+        ],
+        "properties": {
+          "magmom": -0.097
+        },
+        "label": "O"
+      }
+    ]
+  },
+  "nsites": 5,
+  "is_stable": false,
+  "is_metal": true,
+  "fermi_energy": 0.967425
+}
