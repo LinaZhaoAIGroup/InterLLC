@@ -68,4 +68,4 @@ python main.py --mode single --spectrum xafs --xas_model mlp
 
 
 
-![Visitor Count](https://visitor-badge-reloaded.blueprintrf.com/badge?page_id=yuanqin1020.InterLLC)
+![Visitor Count](https://visitor-badge-reloaded.blueprintrf.com/badge?page_id=LinaZhaoAIGroup.InterLLC)
