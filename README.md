@@ -74,5 +74,4 @@ python main.py --mode single --spectrum xafs --xas_model mlp
 
 
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLinaZhaoAIGroup%2FInterLLC&count_bg=%2F7928CA&title_bg=%2F555555&icon=&icon_color=%2FE7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=LinaZhaoAIGroup.InterLLC&label=Visitors&countColor=%23263759&v=1)
