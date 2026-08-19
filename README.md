@@ -33,7 +33,7 @@ We use the open computational database from [Materials Project](https://next-503
 To ensure maximum data consistency and eliminate structural ambiguities before model learning, a strict filtering pipeline is used to exclude compounds with disordered lattices, and incomplete property tags. This process yields a finalized high-throughput dataset of approximately 1,600 pristine ABX3 perovskite compounds. For each compound instance originated from identical crystallographic structures, the curated data consists of a XRD profile, K-edge XAFS spectra, and the corresponding targets: formation energy, Fermi energy, and bandgap.
 
 ## Quick Start
-Extract the data archive [data.zip](https://drive.google.com/file/d/19HUld80pnwEvODCQux0NhWW3jGv922rZ/view?usp=sharing) and maintain the following directory structure:
+Extract the [data archive](https://drive.google.com/file/d/19HUld80pnwEvODCQux0NhWW3jGv922rZ/view?usp=sharing) and maintain the following directory structure:
 ```text
 InterLLC/
 ├── data/
